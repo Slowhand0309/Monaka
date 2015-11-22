@@ -1,0 +1,11 @@
+com.slowhand.monaka.db
+com.slowhand.monaka.dir
+com.slowhand.monaka.http
+com.slowhand.monaka.loader
+com.slowhand.monaka.log
+com.slowhand.monaka.pref
+com.slowhand.monaka.thread
+com.slowhand.monaka.trans
+com.slowhand.monaka.util
+com.slowhand.monaka.validate
+com.slowhand.monaka.view
