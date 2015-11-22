@@ -6,6 +6,10 @@ Convenient library of Android
 Monaka is a library that can be used conveniently in the Android development<br />
 The origin of the name is the same candy and Android, but it is Japan sweets
 
+## Javadoc
+
+[here](http://slowhand0309.github.io/Monaka)
+
 ## What does it do?
 
 * DB Access Support
@@ -19,8 +23,6 @@ The origin of the name is the same candy and Android, but it is Japan sweets
 * Communication process management
 
 * Extension Views
-
-## Requirement
 
 ## Usage
 
