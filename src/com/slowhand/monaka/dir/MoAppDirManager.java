@@ -74,10 +74,10 @@ public class MoAppDirManager {
     }
 
     /**
-     * �A�v���P�[�V�������ݒ�<br>
-     * �ݒ肵�Ȃ��ꍇ��application:lable���K�p�����
+     * アプリケーション名の設定<br>
+     * 未設定の場合はapplication:lableの値を使用
      *
-     * @param name �A�v���P�[�V������
+     * @param name アプリケ−ション名
      */
     public void setApplicationName(String name) {
         mApplicationName = name;
